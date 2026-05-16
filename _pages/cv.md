@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV available upon request.
+CV available upon request
 
 Please contact me at: mdtalhamohsin@gmail.com
