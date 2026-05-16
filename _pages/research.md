@@ -37,9 +37,8 @@ I also study the role of interpretable machine learning and explainable analytic
 My interests in this area include:
 - Explainable AI in healthcare operations
 - Interpretable predictive modeling
-- Decision-focused analytics
 - Human-centered analytical systems
-- Institutional implementation of data-driven decision tools
+- Generative and agentic AI in healthcare operations
 
 ## Current Research
 
