@@ -30,7 +30,7 @@ My research in this area draws on stochastic optimization, dynamic programming, 
 - Long-horizon resource allocation problems
 - Restless bandit formulations in healthcare operations
 
-### Explainable and Data-Driven Decision Systems
+### AI-driven Decision Systems
 
 I also study the role of interpretable machine learning and explainable analytical systems in operational and clinical decision-making. This research examines how predictive models can be integrated into organizational decision processes while maintaining transparency, interpretability, and institutional reliability.
 
@@ -52,7 +52,7 @@ This research examines dynamic treatment allocation under healthcare capacity co
 
 ### Sequential De-Scaling and Operational Governance
 
-This work develops a dynamic operational governance framework for sequential de-scaling and exit decisions in operations and supply chains. The study examines how organizations adapt governance structures and operational relationships under changing environmental and strategic conditions.
+This work develops a dynamic operational governance framework for sequential de-scaling and exit decisions in ICU operations. We examine how organizations adapt governance structures and operational relationships under changing environmental and strategic conditions.
 
 ### Explainable Decision Systems in Healthcare Analytics
 
