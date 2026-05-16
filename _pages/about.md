@@ -19,15 +19,22 @@ My methodological interests include:
 
 I've completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
 
-## Research Areas
 
-- Healthcare Operations Management
-- Clinical Decision Systems
-- Explainable AI
-- Sequential Decision-Making Under Uncertainty
-- Dynamic Resource Allocation
-- AI in Operations and Supply Chains
-- Machine Learning for Healthcare
+## Latest News
+
+- [2026.04] Presented research on multimodal foundation models for healthcare at IEEE QPAIN 2026.
+- [2025.10] Presented kidney transplant prediction research at the INFORMS Annual Meeting.
+- [2025.08] Serving as reviewer for ICLR workshops and multiple AI/data science conferences.
+
+- 
+
+## Research Interests
+
+### Topics
+Healthcare operations and clinical decision systems; patient flow optimization; capacity management; scheduling and resource allocation in healthcare delivery systems; sequential decision-making and dynamic prioritization under uncertainty.
+
+### Methodologies
+Empirical econometrics and statistical modeling; causal inference and quasi-experimental methods; stochastic optimization and dynamic programming; constrained Markov decision processes (MDPs); machine learning and interpretable AI.
 
 ## Selected Research
 
@@ -37,16 +44,6 @@ I've completed an M.Sc. in Business Analytics at the University of Tulsa and a B
 
 2. “A Decision-Centered Review of Explainable AI in Transport Logistics,” *Journal of Computer Information Systems*.
 
-### Working Papers
-
-- “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains”  
-  Under Review at *Journal of Operations Management*.
-
-- “Reliability-Based Modeling of Extubation Readiness in ICU Patients”  
-  Under Review at *Manufacturing & Service Operations Management*.
-
-- “Restless Bandit Policies for Capacity-Constrained Patient Treatment”  
-  Target Journal: *Production and Operations Management*.
 
 ## Professional Activities
 
