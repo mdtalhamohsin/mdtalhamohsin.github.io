@@ -20,7 +20,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-    - title: "Service"
+  - title: "Service"
     url: /service/  
     
   - title: "Honors and Awards"
@@ -32,8 +32,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
