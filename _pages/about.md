@@ -25,19 +25,12 @@ Paul Erdős → Ronald Graham → Panos M. Pardalos → Dursun Delen → Md Talh
 
 ## Research Interests
 
-### Topics
+### Topics:
 Healthcare operations and clinical decision systems; patient flow optimization; capacity management; scheduling and resource allocation in healthcare delivery systems; sequential decision-making and dynamic prioritization under uncertainty.
 
-### Methodologies
+### Methodologies:
 Empirical econometrics and statistical modeling; causal inference and quasi-experimental methods; stochastic optimization and dynamic programming; constrained Markov decision processes (MDPs); machine learning and interpretable AI.
 
-## Selected Research
-
-### Journal Publications
-
-1. “Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems,” *Annals of Operations Research* (forthcoming).
-
-2. “A Decision-Centered Review of Explainable AI in Transport Logistics,” *Journal of Computer Information Systems*.
 
 
 ## Professional Activities
