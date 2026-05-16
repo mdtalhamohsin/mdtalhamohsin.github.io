@@ -18,10 +18,10 @@ main:
     url: /service/  
     
   - title: "Honors and Awards"
-    url: /portfolio/
+    url: /honors/
         
   - title: "Latest News"
-    url: /year-archive/
+    url: /news/
     
   - title: "CV"
     url: /cv/
