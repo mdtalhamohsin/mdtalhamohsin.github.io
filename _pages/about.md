@@ -20,14 +20,6 @@ My methodological interests include:
 I've completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
 
 
-## Latest News
-
-- [2026.04] Presented research on multimodal foundation models for healthcare at IEEE QPAIN 2026.
-- [2025.10] Presented kidney transplant prediction research at the INFORMS Annual Meeting.
-- [2025.08] Serving as reviewer for ICLR workshops and multiple AI/data science conferences.
-
-- 
-
 ## Research Interests
 
 ### Topics
