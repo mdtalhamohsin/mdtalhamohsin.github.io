@@ -18,7 +18,7 @@ My methodological interests include:
 - Dynamic programming and sequential decision-making
 - Experimental and quasi-experimental methods
 
-Before joining the University of Miami, I completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
+I've completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
 
 ## Research Areas
 
