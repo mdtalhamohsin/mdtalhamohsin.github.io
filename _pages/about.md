@@ -19,6 +19,9 @@ My methodological interests include:
 
 I've completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
 
+My Erdős number is 4 through the collaboration chain:
+Paul Erdős → Ronald Graham → Panos M. Pardalos → Dursun Delen → Md Talha Mohsin.
+
 
 ## Research Interests
 
