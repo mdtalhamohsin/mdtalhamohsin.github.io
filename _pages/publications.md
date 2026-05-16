@@ -46,7 +46,7 @@ ABDC = Australian Business Deans Council Journal Quality List
 
 ## Working Papers
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Tsan-Ming Choi.  
+- **Md Talha Mohsin**, Ismail Abdulrashid
   “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
   Under review at a UTD 24 journal.
 
