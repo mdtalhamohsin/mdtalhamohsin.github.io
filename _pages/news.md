@@ -7,8 +7,6 @@ author_profile: true
 
 ## Latest News
 
-- **May 2026:** Joining the University of Miami as an incoming Ph.D. student in Management Science.
-
 - **April 2026:** Presented research on multimodal foundation models for healthcare at the IEEE International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026).
 
 - **April 2026:** Paper titled *“Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems”* forthcoming in *Annals of Operations Research*.
