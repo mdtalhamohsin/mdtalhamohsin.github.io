@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Md Talha Mohsin"
 author_profile: true
-profile_image: "profile.JPG"
 redirect_from: 
   - /about/
   - /about.html
