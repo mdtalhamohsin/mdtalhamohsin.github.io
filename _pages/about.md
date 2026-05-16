@@ -32,13 +32,6 @@ Healthcare operations and clinical decision systems; patient flow optimization; 
 Empirical econometrics and statistical modeling; causal inference and quasi-experimental methods; stochastic optimization and dynamic programming; constrained Markov decision processes (MDPs); machine learning and interpretable AI.
 
 
-
-## Professional Activities
-
-- Reviewer for *IEEE Transactions on Dependable and Secure Computing*
-- Reviewer for ICLR workshops and multiple AI/data science conferences
-- Member of INFORMS, IEEE, and POMS
-
 ## Contact
 
-Email: mdtalhamohsin@gmail.com
+**E-mail:** mdtalhamohsin@gmail.com
