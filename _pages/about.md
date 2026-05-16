@@ -10,13 +10,6 @@ redirect_from:
 
 My research interests lie at the intersection of healthcare operations, AI-enabled decision systems, stochastic optimization, and sequential decision-making under uncertainty. I am particularly interested in patient flow optimization, clinical decision systems, capacity management, explainable AI, and dynamic operational policies in healthcare delivery systems.
 
-My methodological interests include:
-- Stochastic optimization and constrained Markov decision processes (MDPs)
-- Machine learning and interpretable AI
-- Empirical econometrics and causal inference
-- Dynamic programming and sequential decision-making
-- Experimental and quasi-experimental methods
-
 I've completed an M.Sc. in Business Analytics at the University of Tulsa and a BBA from the University of Dhaka.
 
 My Erdős number is 4 through the collaboration chain:
