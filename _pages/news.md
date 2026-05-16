@@ -19,6 +19,8 @@ author_profile: true
 
 - **December 2025:** Presented the paper *“Blockchain-Enabled Explainable AI for Trusted Healthcare Systems”* at the *2025 2nd International Conference on Electrical and Computer Engineering Researches (ICECER 2025)*. Published in IEEE Xplore.
 
+- **December 2024:** Graduated with an M.S. in Business Analytics from The University of Tulsa.
+
 - **October 2024:** Presented research on kidney transplant success prediction and risk factors at the 2024 INFORMS Annual Meeting in Seattle, Washington.
   
-- **August 2023:** Started the M.S. in Business Analytics program at The University of Tulsa.
+- **August 2023:** Started M.S. in Business Analytics at The University of Tulsa.
