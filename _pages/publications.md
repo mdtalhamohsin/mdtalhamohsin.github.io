@@ -9,11 +9,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Refereed Journal Publications
 
-**Journal Rankings:**  
-UTD 24 = UT Dallas Top 24 Journals  
-FT 50 = Financial Times Top 50 Journals  
-ABDC = Australian Business Deans Council Journal Quality List
-
 - **Md Talha Mohsin**, Ismail Abdulrashid, Mohamed Khalafalla, and Dursun Delen.  
   “Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems.”  
   *Annals of Operations Research* (forthcoming). (ABDC A)
