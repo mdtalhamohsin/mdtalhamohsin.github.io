@@ -5,71 +5,72 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of healthcare operations, AI-enabled decision systems, stochastic optimization, and sequential decision-making under uncertainty. Broadly, I study how analytical models, machine learning, and optimization methods can support operational and clinical decision-making in complex healthcare environments characterized by uncertainty, resource constraints, and dynamic system behavior.
+My research examines operational decision-making in healthcare systems under uncertainty. Broadly, I study how analytical modeling, stochastic optimization, econometric methods, and data-driven decision systems can improve resource allocation, treatment prioritization, and organizational performance in complex healthcare environments. My work is grounded in operations management and management science, with substantive applications in healthcare delivery systems, clinical operations, and operational governance.
 
-I am particularly interested in healthcare delivery systems where operational decisions directly influence patient outcomes, resource utilization, and system-wide efficiency. My work combines methodological rigor with applied relevance, drawing from operations management, management science, econometrics, and machine learning.
+A central theme of my research concerns the design of dynamic operational policies in settings characterized by congestion, resource scarcity, evolving system states, and heterogeneous patient needs. In particular, I am interested in how sequential decision-making frameworks can support operational and clinical decisions that must balance immediate outcomes with long-term system performance.
 
-## Research Themes
+> **Research Statement:** A full research statement will be available soon.
 
-### Healthcare Operations and Clinical Decision Systems
+## Research Areas
 
-A central focus of my research is the development of operational and analytical frameworks for healthcare delivery systems. I study patient flow optimization, ICU operations, treatment prioritization, scheduling policies, and healthcare capacity management under uncertainty.
+### Healthcare Operations Management
 
-My work examines how hospitals and healthcare systems can improve operational efficiency while maintaining high-quality patient care, especially in environments with limited resources and dynamic patient demand.
+My research investigates operational problems arising in healthcare delivery systems, including patient flow management, ICU operations, capacity allocation, treatment prioritization, scheduling, and care coordination. I am particularly interested in operational settings in which decisions directly affect both patient outcomes and system-wide efficiency.
 
-### Sequential Decision-Making Under Uncertainty
+This stream of work examines how healthcare organizations can improve responsiveness, reliability, and resource utilization in environments characterized by uncertain demand, operational constraints, and dynamic patient trajectories.
 
-Many healthcare and operational problems evolve sequentially over time and require adaptive decision-making under uncertainty. My research investigates dynamic operational policies using stochastic optimization, dynamic programming, and constrained Markov Decision Processes (MDPs).
+### Sequential Decision-Making and Dynamic Operations
 
-I am particularly interested in:
+A substantial portion of my work focuses on sequential decision-making under uncertainty. Many operational problems in healthcare and service systems unfold dynamically over time and require adaptive policies that account for evolving information and resource constraints.
+
+My research in this area draws on stochastic optimization, dynamic programming, constrained Markov decision processes (MDPs), and related analytical frameworks to study:
 - Dynamic prioritization policies
 - Sequential treatment allocation
 - Capacity-constrained operational systems
-- Restless bandit formulations
-- Long-horizon operational decision-making
+- Long-horizon resource allocation problems
+- Restless bandit formulations in healthcare operations
 
-### AI-Enabled Decision Analytics and Explainability
+### Explainable and Data-Driven Decision Systems
 
-I study the integration of machine learning and explainable AI into operational and clinical decision systems. My work explores how interpretable analytical models can improve trust, transparency, and implementation in high-stakes operational settings.
+I also study the role of interpretable machine learning and explainable analytical systems in operational and clinical decision-making. This research examines how predictive models can be integrated into organizational decision processes while maintaining transparency, interpretability, and institutional reliability.
 
-This stream of research includes:
-- Explainable AI for healthcare decision-making
+My interests in this area include:
+- Explainable AI in healthcare operations
 - Interpretable predictive modeling
-- AI-supported clinical operations
+- Decision-focused analytics
 - Human-centered analytical systems
-- Decision-focused machine learning
+- Institutional implementation of data-driven decision tools
 
-## Current Research Projects
+## Current Research
 
 ### Reliability-Based Modeling of Extubation Readiness in ICU Patients
 
-This project develops reliability-based and machine learning approaches for predicting extubation readiness in intensive care unit (ICU) settings. The objective is to support safer and more operationally efficient ventilator management decisions in critical care environments.
+This project develops reliability-based and predictive modeling approaches for extubation readiness assessment in intensive care settings. The study examines how analytical models can support ventilator management decisions and improve operational efficiency in critical care environments.
 
 ### Restless Bandit Policies for Capacity-Constrained Patient Treatment
 
-This research examines dynamic patient prioritization under capacity constraints using restless bandit formulations and stochastic optimization methods. The work focuses on treatment allocation policies in healthcare systems with limited operational resources.
+This research examines dynamic treatment allocation under healthcare capacity constraints using stochastic control and restless bandit formulations. The project studies prioritization policies for patient treatment in systems with limited operational resources and evolving patient states.
 
 ### Sequential De-Scaling and Operational Governance
 
-This project develops a dynamic operational governance framework for sequential exit and de-scaling decisions in operations and supply chains. The study examines how firms adapt operational relationships and governance structures under changing environmental and strategic conditions.
+This work develops a dynamic operational governance framework for sequential de-scaling and exit decisions in operations and supply chains. The study examines how organizations adapt governance structures and operational relationships under changing environmental and strategic conditions.
 
-### Explainable AI in Healthcare Information Systems
+### Explainable Decision Systems in Healthcare Analytics
 
-This research stream investigates the role of explainable AI in healthcare analytics and decision support systems. The work synthesizes methodological developments and operational implications of interpretable AI models in healthcare contexts.
+This research stream investigates the operational implications of explainable analytical systems in healthcare decision-making contexts. The work focuses on interpretability, institutional trust, and implementation challenges associated with predictive and decision-support systems.
 
 ## Methodological Interests
 
 My methodological interests include:
-
 - Stochastic optimization
 - Dynamic programming
-- Constrained Markov Decision Processes (MDPs)
+- Constrained Markov decision processes (MDPs)
 - Empirical econometrics
 - Causal inference and quasi-experimental methods
 - Statistical learning and predictive modeling
-- Explainable and interpretable AI
-- Sequential experimentation and operational analytics
+- Sequential experimentation
+- Operations analytics
 
-## Research Goal
+## Research Objective
 
-My long-term research goal is to develop rigorous analytical frameworks that improve operational decision-making in complex systems, particularly in healthcare environments where uncertainty, capacity limitations, and dynamic system behavior play critical roles in organizational and societal outcomes.
+My long-term research objective is to develop rigorous analytical frameworks for improving operational decision-making in complex systems, particularly healthcare environments where uncertainty, congestion, and resource limitations fundamentally shape organizational performance and societal outcomes.
