@@ -40,23 +40,6 @@ My interests in this area include:
 - Human-centered analytical systems
 - Generative and agentic AI in healthcare operations
 
-## Current Research
-
-### Reliability-Based Modeling of Extubation Readiness in ICU Patients
-
-This project develops reliability-based and predictive modeling approaches for extubation readiness assessment in intensive care settings. The study examines how analytical models can support ventilator management decisions and improve operational efficiency in critical care environments.
-
-### Restless Bandit Policies for Capacity-Constrained Patient Treatment
-
-This research examines dynamic treatment allocation under healthcare capacity constraints using stochastic control and restless bandit formulations. The project studies prioritization policies for patient treatment in systems with limited operational resources and evolving patient states.
-
-### Sequential De-Scaling and Operational Governance
-
-This work develops a dynamic operational governance framework for sequential de-scaling and exit decisions in ICU operations. We examine how organizations adapt governance structures and operational relationships under changing environmental and strategic conditions.
-
-### Explainable Decision Systems in Healthcare Analytics
-
-This research stream investigates the operational implications of explainable analytical systems in healthcare decision-making contexts. The work focuses on interpretability, institutional trust, and implementation challenges associated with predictive and decision-support systems.
 
 ## Methodological Interests
 
@@ -68,8 +51,9 @@ My methodological interests include:
 - Causal inference and quasi-experimental methods
 - Statistical learning and predictive modeling
 - Sequential experimentation
-- Operations analytics
 
 ## Research Objective
 
-My long-term research objective is to develop rigorous analytical frameworks for improving operational decision-making in complex systems, particularly healthcare environments where uncertainty, congestion, and resource limitations fundamentally shape organizational performance and societal outcomes.
+I am particularly interested in connecting algorithms with practice, policy, and institutions by developing rigorous analytical frameworks for operational decision-making in complex systems, particularly healthcare environments characterized by uncertainty, congestion, and resource constraints. My research integrates analytical modeling, empirical validation, and institutional analysis to advance the emerging field of AI in operations and to better understand how organizations evolve through human-AI collaboration.
+
+My long-term research objective is to study when and how AI systems should be deployed in operational settings, and how deployment choices influence diagnosis, treatment, trust, coordination, and organizational performance. More broadly, I seek to examine the operational implications of Generative AI and agentic AI systems through analytical modeling, randomized experiments, economic analysis, and behavioral studies.
