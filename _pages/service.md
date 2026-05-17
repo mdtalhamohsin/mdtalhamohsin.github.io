@@ -9,28 +9,18 @@ author_profile: true
 
 ### Journal and Conference Reviewing
 
-- **Referee for Journals:**
-  
-- IEEE Transactions on Dependable and Secure Computing
+- **Referee for Journals**
+  - IEEE Transactions on Dependable and Secure Computing
 
-- **Referee for Conferences and Workshops:**
-  
-- International Conference on Learning Representations (ICLR) – DeLTa Workshop (2025, 2026)
-
-- International Conference on Learning Representations (ICLR) – FM-Wild Workshop (2025)
-
-- International Conference on Learning Representations (ICLR) – AIWILD Workshop (2026)
-
-- International Conference on Learning Representations (ICLR) – ES-Reasoning Workshop (2026)
-
-- International Conference on Emerging Computing and Emerging Technologies (ICECET) (2025, 2026)
-
-- International Conference on Advanced Data Science and Analytics (ACDSA) (2025, 2026)
-
-- International Conference on Applied Data Science (ICAD) (2026)
-
-- Latin American and Caribbean Conference for Engineering and Technology (LACCEI) (2026)
-
+- **Referee for Conferences and Workshops**
+  - International Conference on Learning Representations (ICLR) – DeLTa Workshop (2025, 2026)
+  - International Conference on Learning Representations (ICLR) – FM-Wild Workshop (2025)
+  - International Conference on Learning Representations (ICLR) – AIWILD Workshop (2026)
+  - International Conference on Learning Representations (ICLR) – ES-Reasoning Workshop (2026)
+  - International Conference on Emerging Computing and Emerging Technologies (ICECET) (2025, 2026)
+  - International Conference on Advanced Data Science and Analytics (ACDSA) (2025, 2026)
+  - International Conference on Applied Data Science (ICAD) (2026)
+  - Latin American and Caribbean Conference for Engineering and Technology (LACCEI) (2026)
 
 ### Professional Memberships
 
