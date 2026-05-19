@@ -39,13 +39,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ---
 
-## Working Papers
+## Under Review
 
-- **Md Talha Mohsin**, Ismail Abdulrashid
-  “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
-  Under review at a UTD 24 journal.
 
-- **Md Talha Mohsin** and Ismail Abdulrashid.  
+- **Md Talha Mohsin**, Ismail Abdulrashid, and Dursun Delen. 
   “Reliability-Based Modeling of Extubation Readiness in ICU Patients.”  
   Under review at a UTD 24 journal.
 
@@ -53,6 +50,16 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   “How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment.”  
   Under review at a UTD 24 journal.
 
+
+---
+
+## Working Papers
+
+
+- **Md Talha Mohsin**, and Ismail Abdulrashid.
+  “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
+  Under review at a UTD 24 journal.
+  
 - **Md Talha Mohsin**, Titing Cui, and Wen-Chyuan Chiang.  
   “Restless Bandit Policies for Capacity-Constrained Patient Treatment.”  
   Target journal: *Production and Operations Management*.
