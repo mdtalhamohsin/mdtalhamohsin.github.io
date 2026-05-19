@@ -23,15 +23,15 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 - **Md Talha Mohsin** and Ismail Abdulrashid. (2026).  
   “Multimodal Foundation Models for Early Disease Detection.”  
-  *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*, Chittagong, Bangladesh.
+  *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*.
 
 - **Md Talha Mohsin** and Ismail Abdulrashid. (2026).  
   “Few-Shot Multimodal Medical Imaging: A Theoretical Framework.”  
-  *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*, Chittagong, Bangladesh.
+  *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*.
 
 - **Md Talha Mohsin** and Ismail Abdulrashid. (2025).  
   “Provenance-Aware Explainable Digital Twin for Personalized Health Management.”  
-  *Proceedings of the 2025 International Conference on Computer and Information Technology (ICCIT 2025)*, Cox’s Bazar, Bangladesh.
+  *Proceedings of the 2025 International Conference on Computer and Information Technology (ICCIT 2025)*.
 
 - **Md Talha Mohsin**. (2025).  
   “Blockchain-Enabled Explainable AI for Trusted Healthcare Systems.”  
@@ -58,7 +58,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 - **Md Talha Mohsin**, and Ismail Abdulrashid.
   “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
-  Under review at a UTD 24 journal.
+  Target journal: *Journal of Operations Management*.
   
 - **Md Talha Mohsin**, Titing Cui, and Wen-Chyuan Chiang.  
   “Restless Bandit Policies for Capacity-Constrained Patient Treatment.”  
