@@ -56,7 +56,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 ## Working Papers
 
 
-- **Md Talha Mohsin**, and Ismail Abdulrashid.
+- **Md Talha Mohsin**, Ismail Abdulrashid, and Tsan-Ming Choi (Jason).
   “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
   Target journal: *Journal of Operations Management*.
   
@@ -68,7 +68,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   “Reconstructing Responsibility in Algorithmic Decision Systems: A Multi-Contingency Ethical Framework.”  
   Target journal: *MIS Quarterly*.
 
-- **Md Talha Mohsin** and Wen-Chyuan Chiang.  
+- **Md Talha Mohsin**, Ismail Abdulrashid, and Wen-Chyuan Chiang.  
   “Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.”  
   Target journal: *INFORMS Journal on Data Science*.
 
