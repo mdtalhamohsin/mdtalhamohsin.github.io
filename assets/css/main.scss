@@ -50,3 +50,11 @@ body {
 .page__footer {
   display: none !important;
 }
+
+.theme-toggle,
+button.theme-toggle,
+.btn.theme-toggle,
+.greedy-nav .theme-toggle,
+input#theme-toggle {
+  display: none !important;
+}
