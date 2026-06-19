@@ -59,7 +59,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 - **Md Talha Mohsin**, Ismail Abdulrashid, and Wen-Chyuan Chiang.  
   **Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.**  
-  *Target Journal: INFORMS Journal on Data Science.*
+  *Target Journal: INFORMS Journal on Data Science (IJDS).*
 
 ---
 
