@@ -39,38 +39,27 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ---
 
-## Under Review
-
-
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Dursun Delen. 
-  “Reliability-Based Modeling of Extubation Readiness in ICU Patients.”  
-  Under review at a UTD 24 journal.
-
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Dursun Delen.  
-  “How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment.”  
-  Under review at a UTD 24 journal.
-
-
----
-
 ## Working Papers
 
+- **Md Talha Mohsin**, Ismail Abdulrashid, Reza Zanjirani Farahani, and Dursun Delen.  
+  **Beyond Predicted Risk: Reliability-Aware Dynamic Decision Making for Extubation in Intensive Care Units.**  
+  *Target Journal: Manufacturing & Service Operations Management (MSOM).*
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Tsan-Ming Choi (Jason).
-  “When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.”  
-  Target journal: *Journal of Operations Management*.
-  
+- **Md Talha Mohsin**, Ismail Abdulrashid, and Dursun Delen.  
+  **How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment.**  
+  *Target Journal: Production and Operations Management (POMS).*
+
+- **Md Talha Mohsin**, Ismail Abdulrashid, and Tsan-Ming Choi.  
+  **When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.**  
+  *Target Journal: Journal of Operations Management (JOM).*
+
 - **Md Talha Mohsin**, Titing Cui, and Wen-Chyuan Chiang.  
-  “Restless Bandit Policies for Capacity-Constrained Patient Treatment.”  
-  Target journal: *Production and Operations Management*.
-
-- **Md Talha Mohsin** and Ismail Abdulrashid.  
-  “Reconstructing Responsibility in Algorithmic Decision Systems: A Multi-Contingency Ethical Framework.”  
-  Target journal: *MIS Quarterly*.
+  **Restless Bandit Policies for Capacity-Constrained Patient Treatment.**  
+  *Target Journal: Production and Operations Management (POMS).*
 
 - **Md Talha Mohsin**, Ismail Abdulrashid, and Wen-Chyuan Chiang.  
-  “Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.”  
-  Target journal: *INFORMS Journal on Data Science*.
+  **Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.**  
+  *Target Journal: INFORMS Journal on Data Science.*
 
 ---
 
