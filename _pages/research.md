@@ -52,10 +52,8 @@ My interests in this area include:
 
 My methodological interests include:
 - Stochastic optimization
-- Dynamic programming
-- Constrained Markov decision processes (MDPs)
 - Empirical econometrics
+- Dynamic programming
+- Constrained Markov decision processes
 - Causal inference and quasi-experimental methods
-- Statistical learning and predictive modeling
-- Sequential experimentation
 
