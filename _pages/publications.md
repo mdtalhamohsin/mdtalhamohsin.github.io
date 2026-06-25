@@ -11,11 +11,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 - **Md Talha Mohsin**, Ismail Abdulrashid, Mohamed Khalafalla, and Dursun Delen.  
   “Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems.”  
-  *Annals of Operations Research* (forthcoming). (ABDC A)
+  **Annals of Operations Research** (forthcoming; ABDC **A**).
 
 - Ismail Abdulrashid, **Md Talha Mohsin**, Mohamed Khalafalla, and Dursun Delen.  
   “A Decision-Centered Review of Explainable AI in Transport Logistics.”  
-  *Journal of Computer Information Systems*. (ABDC A)
+  **Journal of Computer Information Systems** (ABDC **A**).
 
 ---
 
