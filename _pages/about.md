@@ -10,9 +10,6 @@ My research interests lie at the intersection of healthcare operations managemen
 
 I earned an M.Sc. in Business Analytics from The University of Tulsa under the supervision of [Ismail Abdulrashid](https://utulsa.edu/people/ismail-abdulrashid/) and [Wen-Chyuan Chiang](https://utulsa.edu/people/wen-chyuan-chiang/).
 
-My Erdős number is 4 through the collaboration chain:
-
-Paul Erdős → Ronald Graham → Panos M. Pardalos → Dursun Delen → Md Talha Mohsin.
 
 
 ## Research Interests
