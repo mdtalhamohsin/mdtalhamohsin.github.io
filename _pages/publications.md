@@ -9,7 +9,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Refereed Journal Publications
 
-- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, Mohamed Khalafalla, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>,  <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.  
   “Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems.”  
   **Annals of Operations Research** (forthcoming; ABDC **A**).
 
@@ -41,7 +41,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Working Papers
 
-- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, Reza Zanjirani Farahani, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, <a href="https://scholar.google.com/citations?user=MeYfACoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Reza Zanjirani Farahani</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.  
   **Beyond Predicted Risk: Reliability-Aware Dynamic Decision Making for Extubation in Intensive Care Units.**  
   *Target Journal: Manufacturing & Service Operations Management (MSOM).*
 
