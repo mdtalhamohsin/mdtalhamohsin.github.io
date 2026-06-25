@@ -12,7 +12,7 @@ Outside of research, I enjoy traveling and following developments in artificial 
 
 ## Academic Connections
 
-My **Erdős number is 4**, based on the following coauthorship chain:
+My Erdős number is 4, based on the following coauthorship chain:
 
 **Paul Erdős** → **Ronald Graham** → **Panos M. Pardalos** → **Dursun Delen** → **Md Talha Mohsin**
 
