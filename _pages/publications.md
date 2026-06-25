@@ -9,11 +9,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Refereed Journal Publications
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, Mohamed Khalafalla, and Dursun Delen.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, Mohamed Khalafalla, and Dursun Delen.  
   “Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems.”  
   **Annals of Operations Research** (forthcoming; ABDC **A**).
 
-- Ismail Abdulrashid, **Md Talha Mohsin**, Mohamed Khalafalla, and Dursun Delen.  
+- <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, **Md Talha Mohsin**, Mohamed Khalafalla, and Dursun Delen.  
   “A Decision-Centered Review of Explainable AI in Transport Logistics.”  
   **Journal of Computer Information Systems** (ABDC **A**).
 
@@ -21,15 +21,15 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Conference Proceedings
 
-- **Md Talha Mohsin** and Ismail Abdulrashid. (2026).  
+- **Md Talha Mohsin** and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>. (2026).  
   “Multimodal Foundation Models for Early Disease Detection.”  
   *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*.
 
-- **Md Talha Mohsin** and Ismail Abdulrashid. (2026).  
+- **Md Talha Mohsin** and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>. (2026).  
   “Few-Shot Multimodal Medical Imaging: A Theoretical Framework.”  
   *Proceedings of the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*.
 
-- **Md Talha Mohsin** and Ismail Abdulrashid. (2025).  
+- **Md Talha Mohsin** and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>. (2025).  
   “Provenance-Aware Explainable Digital Twin for Personalized Health Management.”  
   *Proceedings of the 2025 International Conference on Computer and Information Technology (ICCIT 2025)*.
 
@@ -41,15 +41,15 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ## Working Papers
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, Reza Zanjirani Farahani, and Dursun Delen.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, Reza Zanjirani Farahani, and Dursun Delen.  
   **Beyond Predicted Risk: Reliability-Aware Dynamic Decision Making for Extubation in Intensive Care Units.**  
   *Target Journal: Manufacturing & Service Operations Management (MSOM).*
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Dursun Delen.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a> and, and Dursun Delen.  
   **How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment.**  
   *Target Journal: Production and Operations Management (POMS).*
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Tsan-Ming Choi.  
+- **Md Talha Mohsin**, and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and Tsan-Ming Choi.  
   **When to Exit: A Dynamic Operational Governance Framework for Sequential De-Scaling Decisions in Operations and Supply Chains.**  
   *Target Journal: Journal of Operations Management (JOM).*
 
@@ -57,7 +57,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   **Restless Bandit Policies for Capacity-Constrained Patient Treatment.**  
   *Target Journal: Production and Operations Management (POMS).*
 
-- **Md Talha Mohsin**, Ismail Abdulrashid, and Wen-Chyuan Chiang.  
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and Wen-Chyuan Chiang.  
   **Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.**  
   *Target Journal: INFORMS Journal on Data Science (IJDS).*
 
