@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-My research interests lie at the intersection of healthcare operations management, data-driven decision systems, and uncertainty-aware operational analytics. Broadly, I study how analytical and AI-based methods can support operational decision-making in complex healthcare environments where capacity constraints, evolving patient conditions, and resource limitations interact dynamically over time. My work is motivated by the operational challenges faced by healthcare delivery systems, particularly in settings involving congestion, prioritization, and time-sensitive clinical decisions.
+My research interests lie at the intersection of healthcare operations management, stochastic decision systems, and data-driven analytics. Broadly, I study how analytical models, optimization methods, and AI-enabled decision support can improve operational decision-making in complex healthcare systems where capacity constraints, evolving patient conditions, and resource limitations interact dynamically over time. My work focuses on developing decision frameworks that integrate predictive information with operational policies to improve patient flow, resource allocation, and treatment decisions under uncertainty. I am particularly interested in sequential decision-making, dynamic resource allocation, and the design of operational policies that balance efficiency, quality of care, and system resilience in time-sensitive healthcare environments such as intensive care units and emergency departments.
 
 I have completed an M.Sc. in Business Analytics from The University of Tulsa and a Bachelor of Business Administration (BBA) from University of Dhaka.
 
