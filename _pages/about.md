@@ -11,7 +11,7 @@ Hello, I am Talha. My research lies at the intersection of healthcare operations
 
 I earned an M.Sc. in Business Analytics from The University of Tulsa under the supervision of <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a> and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>.
 
-## Research Interests
+## Research Overview
 
 **Topics**
 
