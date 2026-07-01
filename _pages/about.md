@@ -29,7 +29,6 @@ I earned an M.Sc. in Business Analytics from The University of Tulsa under the s
 * Empirical econometrics
 * Generative and agentic AI
 
-- 
 
 ## Contact
 
