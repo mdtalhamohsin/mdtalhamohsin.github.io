@@ -7,28 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Talha. My research lies at the intersection of healthcare operations management, stochastic decision systems, and data-driven analytics. I develop optimization, stochastic modeling, and AI-enabled decision-support methods to improve operational decision-making in healthcare systems under uncertainty. My work focuses on patient flow, resource allocation, and sequential treatment decisions, with applications to intensive care units, emergency departments, and other capacity-constrained healthcare settings.
+Hello, I am Talha. My primary research interests center on optimal and equitable resource planning in healthcare systems. Specifically, my research focuses on:
+
+1. **Healthcare Operations Management:** Clinician well-being, operating room and intensive care unit management, patient flow optimization, and healthcare capacity planning.
+2. **Healthcare Analytics and Decision Support:** Data-driven patient and provider scheduling, stochastic optimization, sequential decision-making, and AI-enabled decision-support methods for healthcare systems under uncertainty.
 
 I earned an M.Sc. in Business Analytics from The University of Tulsa under the supervision of <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a> and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>.
 
 ## Research Overview
 
-**Topics**
+**Research Topics**
 
-- Healthcare operations and service systems
-- Patient flow optimization in emergency and inpatient care
-- Dynamic resource allocation and capacity management
-- Sequential treatment and prioritization policies
-- Interpretable clinical decision-support systems under operational constraints
+* Healthcare operations management and service systems
+* Patient flow optimization in emergency departments, intensive care units, and other capacity-constrained healthcare settings
+* Dynamic resource allocation and capacity management under uncertainty
+* Sequential treatment decision-making and patient prioritization policies
+* Stochastic optimization and AI-enabled decision-support
+* Interpretable clinical decision-support systems under operational constraints
 
 **Methodologies**
 
+* Mathematical optimization
 * Constrained Markov decision processes (MDPs)
-* Stochastic optimization and approximate dynamic programming
+* Stochastic modeling and approximate dynamic programming
 * Causal inference for operational interventions
 * Empirical econometrics
-* Generative and agentic AI
-
+* Generative and Agentic AI
+  
 
 ## Contact
 
