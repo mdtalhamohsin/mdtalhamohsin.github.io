@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=VY8x_G0AAAAJ&hl=en).
+Find my publications on [Google Scholar](https://scholar.google.com/citations?user=VY8x_G0AAAAJ&hl=en).
 
 ## Refereed Journal Publications
 
