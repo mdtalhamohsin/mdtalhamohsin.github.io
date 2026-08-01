@@ -40,8 +40,7 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
     attribution. The review identifies key gaps and proposes directions to better
     align explainable AI with real-world transport logistics decision-making.
   </p>
-</details>
-  **Journal of Computer Information Systems** (ABDC **A**).
+**Journal of Computer Information Systems** (ABDC **A**).
 
 ---
 
