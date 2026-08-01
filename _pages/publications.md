@@ -18,19 +18,18 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
 
 
 
+
 - <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>,
   **Md Talha Mohsin**,
   <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and
   <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.<br>
 
-  <a href="https://www.tandfonline.com/doi/abs/10.1080/08874417.2026.2648967"
-     target="_blank"
-     rel="noopener noreferrer">
-    <em>“A Decision-Centered Assessment of Explainable AI in Transport Logistics.”</em>
-  </a>
+  <em>“A Decision-Centered Assessment of Explainable AI in Transport Logistics.”</em><br>
+
+  <strong>Journal of Computer Information Systems</strong> (ABDC <strong>A</strong>).
 
   <details>
-    <summary><strong>Abstract</strong></summary>
+    <summary>Abstract</summary>
     <p>
       Artificial intelligence (AI) is increasingly used to support decision-making
       in transport logistics, yet prior research has focused mainly on predictive
@@ -51,8 +50,6 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
     </p>
   </details>
 
-  <strong>Journal of Computer Information Systems</strong> (ABDC <strong>A</strong>).
-  
 ---
 
 ## Conference Proceedings
