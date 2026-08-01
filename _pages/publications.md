@@ -14,9 +14,8 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   **Annals of Operations Research** (forthcoming; ABDC **A**).
 
 - <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, **Md Talha Mohsin**, <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.  
-  “A Decision-Centered Review of Explainable AI in Transport Logistics.”  
-  **Journal of Computer Information Systems** (ABDC **A**).
-<details>
+  “A Decision-Centered Review of Explainable AI in Transport Logistics.”
+  <details>
   <summary><strong>Abstract</strong></summary>
   <p>
     Artificial intelligence (AI) is increasingly used to support decision-making
@@ -37,6 +36,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
     align explainable AI with real-world transport logistics decision-making.
   </p>
 </details>
+  **Journal of Computer Information Systems** (ABDC **A**).
 
 ---
 
