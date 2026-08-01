@@ -18,30 +18,41 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
 
 
 
+- <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>,
+  **Md Talha Mohsin**,
+  <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and
+  <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.<br>
 
-- <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, **Md Talha Mohsin**, <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.<br> <a href="https://www.tandfonline.com/doi/abs/10.1080/08874417.2026.2648967" target="_blank" rel="noopener noreferrer"> “A Decision-Centered Assessment of Explainable AI in Transport Logistics.”
+  <a href="https://www.tandfonline.com/doi/abs/10.1080/08874417.2026.2648967"
+     target="_blank"
+     rel="noopener noreferrer">
+    <em>“A Decision-Centered Assessment of Explainable AI in Transport Logistics.”</em>
+  </a>
+
   <details>
-  <summary><strong>Abstract</strong></summary>
-  <p>
-    Artificial intelligence (AI) is increasingly used to support decision-making
-    in transport logistics, yet prior research has focused mainly on predictive
-    accuracy and computational performance, with limited attention to how AI
-    systems operate within real decision processes. In particular, the role of
-    explainable artificial intelligence (XAI) in supporting human judgment,
-    accountability, and organizational decision-making remains fragmented. This
-    study presents a structured narrative review of 51 peer-reviewed journal
-    articles published between 2015 and 2026, retrieved from Scopus, and examines
-    AI-enabled decision support in transport logistics from a decision-centered
-    perspective. Rather than organizing studies only by modeling techniques, the
-    review synthesizes the literature across decision level, authority allocation,
-    temporal structure, functional AI roles, and explanation design. The findings
-    show a strong emphasis on operational, high-frequency predictive decision
-    support, with explainability primarily implemented as post hoc feature
-    attribution. The review identifies key gaps and proposes directions to better
-    align explainable AI with real-world transport logistics decision-making.
-  </p>
-**Journal of Computer Information Systems** (ABDC **A**).
+    <summary><strong>Abstract</strong></summary>
+    <p>
+      Artificial intelligence (AI) is increasingly used to support decision-making
+      in transport logistics, yet prior research has focused mainly on predictive
+      accuracy and computational performance, with limited attention to how AI
+      systems operate within real decision processes. In particular, the role of
+      explainable artificial intelligence (XAI) in supporting human judgment,
+      accountability, and organizational decision-making remains fragmented. This
+      study presents a structured narrative review of 51 peer-reviewed journal
+      articles published between 2015 and 2026, retrieved from Scopus, and examines
+      AI-enabled decision support in transport logistics from a decision-centered
+      perspective. Rather than organizing studies only by modeling techniques, the
+      review synthesizes the literature across decision level, authority allocation,
+      temporal structure, functional AI roles, and explanation design. The findings
+      show a strong emphasis on operational, high-frequency predictive decision
+      support, with explainability primarily implemented as post hoc feature
+      attribution. The review identifies key gaps and propose directions to better
+      align explainable AI with real-world transport logistics decision-making.
+    </p>
+  </details>
 
+  <strong>Journal of Computer Information Systems</strong> (ABDC <strong>A</strong>).
+  
 ---
 
 ## Conference Proceedings
