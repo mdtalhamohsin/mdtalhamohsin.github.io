@@ -14,7 +14,7 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
   <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and
   <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.<br>
   <em>"Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems."</em><br>
-  **Annals of Operations Research** (forthcoming; ABDC **A**).
+  **Annals of Operations Research** (ABDC **A**).
 
 
 
