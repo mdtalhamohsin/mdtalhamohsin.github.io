@@ -7,7 +7,7 @@ author_profile: true
 
 ## Latest News
 
-- **June 2026:** Our paper, *“Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems,”* was published in *Annals of Operations Research*.
+- **August 2026:** Our paper, *“Explainable AI and Decision Analytics for Early Disease Detection: A Synthesis of Healthcare Information Systems,”* was published in *Annals of Operations Research*.
 
 - **April 2026:** Presented research on multimodal foundation models for healthcare at the *2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*. Proceedings published in IEEE Xplore.
 
