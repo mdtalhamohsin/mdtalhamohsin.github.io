@@ -48,14 +48,17 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
 - **Md Talha Mohsin**, and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and <a href="https://sites.google.com/view/jason-choi/" target="_blank" rel="noopener noreferrer">Tsan-Ming Choi </a>.
   Dynamic Operational Governance for Supply Chain De-Scaling: Evidence from Sequential Exit Decisions Across Supply Networks and Healthcare.
   *Under Review at a UTD 24 Journal*
+  
 
 - **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a>.
   Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.
   *Target Journal: INFORMS Journal on Data Science (IJDS).*
 
+
 - **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, <a href="https://scholar.google.com/citations?user=MeYfACoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Reza Zanjirani Farahani</a>.
   Beyond Predicted Risk: Reliability-Aware Dynamic Decision Making for Extubation in Intensive Care Units.
   *Target Journal: Manufacturing & Service Operations Management (MSOM).*
+  
 
 - **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a> and, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.
   How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment. 
