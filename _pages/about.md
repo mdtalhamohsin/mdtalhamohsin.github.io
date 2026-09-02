@@ -16,14 +16,12 @@ I earned an M.Sc. in Business Analytics from The University of Tulsa under the s
 
 ## Research Overview
 
-**Research Topics**
-
-* Healthcare operations management and service systems
-* Patient flow optimization in emergency departments, intensive care units, and other capacity-constrained healthcare settings
-* Dynamic resource allocation and capacity management under uncertainty
-* Sequential treatment decision-making and patient prioritization policies
-* Stochastic optimization and AI-enabled decision-support
-* Interpretable clinical decision-support systems under operational constraints
+* Empirical healthcare operations and service systems
+* Data-driven patient flow and capacity management
+* Empirical analysis of healthcare resource allocation under uncertainty
+* Data-driven treatment decisions and patient prioritization
+* Predictive analytics and AI for operational decision-making
+* Interpretable and reliable clinical decision-support systems
 
   
 
