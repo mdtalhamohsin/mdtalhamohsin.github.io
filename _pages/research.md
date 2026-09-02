@@ -26,34 +26,26 @@ My research investigates operational problems arising in healthcare delivery sys
 
 This stream of work examines how healthcare organizations can improve responsiveness, reliability, and resource utilization in environments characterized by uncertain demand, operational constraints, and dynamic patient trajectories.
 
-### Sequential Decision-Making and Dynamic Operations
-
-A substantial portion of my work focuses on sequential decision-making under uncertainty. Many operational problems in healthcare and service systems unfold dynamically over time and require adaptive policies that account for evolving information and resource constraints.
-
-My research in this area draws on stochastic optimization, dynamic programming, constrained Markov decision processes (MDPs), and related analytical frameworks to study:
-- Dynamic prioritization policies
-- Sequential treatment allocation
-- Capacity-constrained operational systems
-- Long-horizon resource allocation problems
-- Restless bandit formulations in healthcare operations
 
 ### AI-driven Decision Systems
 
 I also study the role of interpretable machine learning and explainable analytical systems in operational and clinical decision-making. This research examines how predictive models can be integrated into organizational decision processes while maintaining transparency, interpretability, and institutional reliability.
 
 My interests in this area include:
+- Generative and agentic AI in healthcare operations
 - Explainable AI in healthcare operations
 - Interpretable predictive modeling
 - Human-centered analytical systems
-- Generative and agentic AI in healthcare operations
+
 
 
 ## Methodological Interests
 
 My methodological interests include:
-- Stochastic optimization
-- Empirical econometrics
-- Dynamic programming
-- Constrained Markov decision processes
-- Causal inference and quasi-experimental methods
+- Empirical modeling
+- Econometrics and causal inference
+- Statistical and machine learning
+- Simulation and data-driven policy evaluation
+- Stochastic and dynamic decision modeling
+- Generative and Agentic AI
 
