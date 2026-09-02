@@ -49,7 +49,7 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
   Dynamic Operational Governance for Supply Chain De-Scaling: Evidence from Sequential Exit Decisions Across Supply Networks and Healthcare.
   *Under Review at a UTD 24 Journal*
 
-  - **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a>.
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, and <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a>.
   Explainable AI in Multicenter ICU Mortality Prediction: Mechanistic Stability and Institutional Drift.
   *Target Journal: INFORMS Journal on Data Science (IJDS).*
 
