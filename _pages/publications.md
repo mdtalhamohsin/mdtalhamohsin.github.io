@@ -60,8 +60,8 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
   *Target Journal: Manufacturing & Service Operations Management (MSOM).*
   
 
-- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a> and, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.
-  How IT-Enabled Reimbursement Systems and Regulated Pricing Shape Provider Utilization Behavior: Evidence from Medicare Durable Medical Equipment. 
+- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.
+  Distribution-Sensitive Benchmarking of Provider Utilization under Regulated Reimbursement: Evidence from Medicare Durable Medical Equipment.
   *Target Journal: European Journal of Operational Research.*
 
 
