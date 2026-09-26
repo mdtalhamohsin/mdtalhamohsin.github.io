@@ -58,7 +58,7 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
 
 - **Md Talha Mohsin**, <a href="https://tcui-pitt.github.io/" target="_blank" rel="noopener noreferrer">Titing Cui</a>, and <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a>.
   Restless Bandit Policies for Capacity-Constrained Patient Treatment.
-  *Target Journal: Production and Operations Management (POMS).*
+  *Target Journal: Production and Operations Management (POM).*
 
 
 
