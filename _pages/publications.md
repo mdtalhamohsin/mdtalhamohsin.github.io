@@ -17,7 +17,6 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
   **Annals of Operations Research** (ABDC **A**).
 
 
-
 - <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, **Md Talha Mohsin**, <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>. <em>A Decision-Centered Assessment of Explainable AI in Transport Logistics.</em> <strong>Journal of Computer Information Systems</strong> (ABDC <strong>A</strong>).
 
 
@@ -51,15 +50,10 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
   *Target Journal: INFORMS Journal on Data Science (IJDS).*
 
 
-- **Md Talha Mohsin**, <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>, <a href="https://www.famu.edu/info/faculty-staff/profiles/saet/mohamed-khalafalla-ahmed.php" target="_blank" rel="noopener noreferrer">Mohamed Khalafalla Ahmed</a>, and <a href="https://experts.okstate.edu/dursun.delen" target="_blank" rel="noopener noreferrer">Dursun Delen</a>.
-  Distribution-Sensitive Benchmarking of Provider Utilization under Regulated Reimbursement: Evidence from Medicare Durable Medical Equipment.
-  *Target Journal: European Journal of Operational Research.*
-
 
 - **Md Talha Mohsin**, <a href="https://tcui-pitt.github.io/" target="_blank" rel="noopener noreferrer">Titing Cui</a>, and <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a>.
   Restless Bandit Policies for Capacity-Constrained Patient Treatment.
   *Target Journal: Production and Operations Management (POM).*
-
 
 
 ---
