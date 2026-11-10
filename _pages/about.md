@@ -10,7 +10,7 @@ redirect_from:
 Hello, I am Talha. My primary research interests center on optimal and equitable resource planning in healthcare systems. Specifically, my research focuses on:
 
 1. **Healthcare Operations Management:** Healthcare financing and payment systems, resource allocation, and the effects of healthcare policies on provider decisions, service availability, and patient access.
-2. **Digital Health:** Wearable technologies, AI-enabled decision support, and the effects of digital health interventions on patient behavior, provider decisions, healthcare delivery, and operational outcomes, using empirical and causal inference methods.
+2. **Digital Health:** Wearable technologies, AI-enabled decision support, and the effects of digital health interventions on patient behavior, healthcare delivery, and operational outcomes.
 
 I earned an M.Sc. in Business Analytics from The University of Tulsa under the supervision of <a href="https://utulsa.edu/people/wen-chyuan-chiang/" target="_blank" rel="noopener noreferrer">Wen-Chyuan Chiang</a> and <a href="https://utulsa.edu/people/ismail-abdulrashid/" target="_blank" rel="noopener noreferrer">Ismail Abdulrashid</a>.
 
